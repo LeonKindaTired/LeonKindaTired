@@ -26,7 +26,7 @@ We are building a system where candidates prove skills through real tasks, and c
 
 ### Direction
 
-Internstellar is becoming infrastructure for how hiring works when skills matter more than signals.
+Internstellar is becoming the infrastructure for how hiring works when skills matter more than signals.
 
 ---
 
